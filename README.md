@@ -32,29 +32,19 @@ python3 main.py -dataset femnist -model cnn --eval-every 1 --num-rounds 50 --cli
 ## Citation
 
 If you use this code, please cite our paper:
-
+```
 @ARTICLE{10966024,
-
   author={Tahir, Mehreen and Mawla, Tanjila and Awaysheh, Feras and Alawadi, Sadi and Gupta, Maanak and Intizar Ali, Muhammad},
-
   journal={IEEE Journal on Selected Areas in Communications}, 
-
   title={SecureFedPROM: A Zero-Trust Federated Learning Approach With Multi-Criteria Client Selection}, 
-
   year={2025},
-
   volume={43},
-
   number={6},
-
   pages={2025-2041},
-
   keywords={Training;Data models;Computational modeling;Servers;Protocols;Data privacy;Registers;MCDM;Federated learning;Convergence;Federated learning;multi-criteria client selection;access control;zero-trust federated learning},
-
   doi={10.1109/JSAC.2025.3560008}
-  
-  }
-
+}
+```
 
 ## Acknowledgments
 
