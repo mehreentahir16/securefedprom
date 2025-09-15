@@ -1,4 +1,4 @@
-# SecureFedPROM: A Zero-Trust Federated Learning Approach with Multi-Criteria Client Selection
+# [SecureFedPROM: A Zero-Trust Federated Learning Approach with Multi-Criteria Client Selection](https://ieeexplore.ieee.org/abstract/document/10966024)
 
 This repository contains a part of the experiments conducted for paper:
 
